@@ -1,0 +1,1 @@
+ism = input("Ismingizni kiriting: ")
